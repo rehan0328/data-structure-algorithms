@@ -17,8 +17,9 @@ int main() {
     }
 
     // Input element to search
-    cout << "Enter the element to search: ";
+    // cout << "Enter the element to search: ";
     cin >> key;
+    
 
     // Linear Search
     bool found = false;
